@@ -1,0 +1,56 @@
+p{
+    color:seagreen;
+    font-size:50px;
+
+    }
+    h2{
+        color:slateblue;
+    }
+    #myName{
+        color:slategrey;
+    }
+    .name{
+        color:tomato;
+    }
+    .check{
+        color:aquamarine !important;
+
+    }
+    #idcheck{
+        color:black;
+    }
+    #namebox{
+        border: 5px solid darkblue;
+        width:50%;
+
+    }
+    #backgroundcolor{
+        background-color:pink;
+        border:5px dotted darkblue;
+        width:50%;
+    }
+    #btnstyle{
+        color:purple;
+        background-color:rosybrown;
+        border-radius: 5px;
+    }
+    #hoverchng:hover{
+     color:blue;
+     /* font-size: 20px; */
+     border: 3px dashed pink;
+    }
+    .borderset p {
+font-size: 20px;
+color:rosybrown;
+    }
+    .borderset{
+        border: 3px solid darkblue;
+        margin-left: 3px;
+        border-radius: 15px;
+        padding: 20px;
+        width:29%;
+    display:inline-block;
+    }
+    .borderset h1{
+      text-align: center;
+    }
